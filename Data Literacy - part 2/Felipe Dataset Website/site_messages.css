@@ -1,0 +1,60 @@
+body{
+  background: #0f0f0f;
+  overflow-x: hidden;
+    }
+
+img.img1 {
+  position: fixed;
+  left: 800px;
+  width: 500px;
+  top:100px;
+  opacity: 5%;
+  transition: 0.5s;
+  transform-origin: top;
+}
+
+img.img2 {
+  position: fixed;
+  left: 800px;
+  top: 410px;
+  width: 500px;
+  opacity: 5%;
+  transition: 0.5s;
+  transform-origin: bottom;
+}
+
+img.img1:hover{
+  transform: scale(1.1);
+  opacity: 100%;
+}
+
+img.img2:hover{
+  transform: scale(1.1);
+  opacity: 100%;
+}
+
+div{
+  color: #2b2b2b;
+  font-family: "Tamil MN";
+  position: static;
+  display: flex;
+  padding: 5px;
+  transform-origin: left;
+  transition: 1.2s ease-in-out;
+    }
+
+div:hover{
+  transform: scale(2);
+  color: yellow;
+}
+
+p1{
+  padding:1px;
+  }
+
+h1{
+  color: white;
+  font-family: "Tamil MN";
+  font-size: 50px;
+  position: static;
+  }

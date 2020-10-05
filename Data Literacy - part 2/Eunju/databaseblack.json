@@ -1,0 +1,161 @@
+[
+  {   */property : property value/*
+      "name": "Bag",
+      "Color": "Black",
+      "Material": [
+        "Fabric",
+        "Plastic"
+      ],
+      "Frequency of Usage": "Usually",
+      "Function": "Transport"
+  },
+  {
+      "name": "Glasscase",
+      "Color": "Black",
+      "Material": "Fabric",
+      "Frequency of Use": "Usually",
+      "Function": "Protection"
+  },
+  {
+      "name": "Water bottle",
+      "Color": "Black",
+      "Material": "Steel",
+      "Frequency of Use": "Usually",
+      "Function": "Health"
+  },
+  {
+      "name": "Phone",
+      "Color": "Black",
+      "Material": [
+        "Plastic",
+        "Glass"
+      ],
+      "Frequency of Use": "Always",
+      "Function": "Muti"
+  },
+  {
+      "name": "T-shirt",
+      "Color": "Black",
+      "Material": "Fabric",
+      "Frequency of Use": "Usually",
+      "Function": "Etiquette"
+  },
+  {
+      "name": "Headphones",
+      "Color": "Black",
+      "Material": [
+        "Plastic",
+        "Rubber"
+      ],
+      "Frequency of Use": "Sometimes",
+      "Function": "Etiquette"
+  },
+  {
+      "name": "Mouse",
+      "Color": "Black",
+      "Material": "Plastic",
+      "Frequency of Use": "Sometimes",
+      "Function": "Speed"
+  },
+  {
+      "name": "Shoes",
+      "Color": "Black",
+      "Material": "Fabric",
+      "Frequency of Use": "Usually",
+      "Function": "Protection"
+  },
+  {
+      "name": "Pants",
+      "Color": "Black",
+      "Material": "Fabric",
+      "Frequency of Use": "Often",
+      "Function": "Etiquette"
+  },
+  {
+      "name": "Keyboard",
+      "Color": "Black",
+      "Material": "Plastic",
+      "Frequency of Use": "Always",
+      "Function": "Typing"
+  },
+  {
+      "name": "Socks",
+      "Color": "Black",
+      "Material": "Fabric",
+      "Frequency of Use": "Often",
+      "Function": "Hygiene"
+  },
+  {
+      "name": "USB",
+      "Color": "Black",
+      "Material": "Plastic",
+      "Frequency of Use": "Often",
+      "Function": "Transport"
+  },
+  {
+      "name": "Hairband",
+      "Color": "Black",
+      "Material": "Fabric",
+      "Frequency of Use": "Always",
+      "Function": "Convenience"
+  },
+  {
+      "name": "Induction",
+      "Color": "Black",
+      "Material": "Plastic",
+      "Frequency of Use": "Always",
+      "Function": "Cooking"
+  },
+  {
+      "name": "Key",
+      "Color": "Black",
+      "Material": [
+        "Plastic",
+        "Metal"
+      ],
+      "Frequency of Use": "Always",
+      "Function": "Entrance"
+  },
+  {
+      "name": "Fry pan",
+      "Color": "Black",
+      "Material": "Steel",
+      "Frequency of Use": "Usually",
+      "Function": "Cooking"
+  },
+  {
+      "name": "Laptop stand",
+      "Color": "Black",
+      "Material": "Plastic",
+      "Frequency of Use": "Always",
+      "Function": "Health"
+  },
+  {
+      "name": "Chair",
+      "Color": "Black",
+      "Material": [
+        "Plastic",
+        "Metal"
+      ],
+      "Frequency of Use": "Always",
+      "Function": "Health"
+  },
+  {
+      "name": "Printer",
+      "Color": "Black",
+      "Material": [
+        "Plastic",
+        "Glass"
+      ],
+      "Frequency of Use": "Sometimes",
+      "Function": "Print"
+  },
+  {
+      "name": "Knife",
+      "Color": "Black",
+      "Material": "Steel",
+      "Frequency of Use": "Usually",
+      "Function": "Cooking"
+  }
+
+]

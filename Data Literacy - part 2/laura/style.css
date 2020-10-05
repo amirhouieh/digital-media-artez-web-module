@@ -1,0 +1,59 @@
+body {
+  background: yellow;
+  text-align: center;
+}
+
+p1{
+  font-size: 20px;
+  font-family: gopher;
+  line-height: 0.95;
+
+  columns: 100px 1;
+}
+
+p2{
+  font-size: 19px;
+  line-height: 0.95;
+  font-family: futura;
+}
+
+p3{
+  font-size: 18px;
+  line-height: 0.9;
+  font-family: roboto;
+}
+
+p4{
+  font-size: 17px;
+  line-height: 0.9;
+  font-family: pastel;
+}
+
+p5{
+  font-size: 16px;
+  line-height: 0.85;
+  font-family: mountain;
+}
+
+p6{
+  font-size: 15px;
+  line-height: 0.85;
+  font-family: heavitas;
+}
+
+p7{
+  font-size: 14px;
+  line-height: 0.8;
+  font-family: cursive;
+}
+
+p8{
+  font-size: 13px;
+  line-height: 0.8;
+  font-family: times;
+}
+
+p9{
+  font-size: 12px;
+  font-family: helvetica;
+}

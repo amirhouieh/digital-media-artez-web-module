@@ -1,0 +1,186 @@
+[
+  {
+    "name": "eastside",
+    "length_min": 2.53,
+    "genre": "pop",
+    "artist": ["benny blanco", "halsey", "khalid"],
+    "year": 2018,
+    "image" : "eastside.jpg"
+  },
+  {
+    "name": "Ocean eyes",
+    "length_min": 3.15,
+    "genre": "pop",
+    "artist": "Billie Eilish",
+    "year": 2018,
+    "image": "oceaneyes.png"
+  },
+  {
+    "name": "Andante, Andante",
+    "length_min": 4.00,
+    "genre": ["musical", "pop"],
+    "artist": "Lily James",
+    "year": 2018,
+    "image": "andante.jpg",
+  },
+  {
+    "name": "frustrated",
+    "length_min": 3.21,
+    "genre": "pop",
+    "artist": "R.LUM.R",
+    "year": 2018,
+    "image": "frustrated.jpg",
+  },
+  {
+    "name": "overwhelming",
+    "length_min": 2.52,
+    "genre": "pop",
+    "artist": "Jon Bellion",
+    "year": 2018,
+    "image": "overwhelming.jpg"
+  },
+  {
+    "name": "RIP",
+    "length_min": 3.27,
+    "genre": "pop",
+    "artist": "Olivia O'Brien",
+    "year": 2018,
+    "image": "rip.jpg"
+  },
+  {
+    "name": "The Weekend",
+    "length_min": 2.51,
+    "genre": "pop",
+    "artist": ["SZA", "Calvin Harris", "Funk Wav"],
+    "year": 2019,
+    "image": "theweekend.jpg"
+  },
+  {
+    "name": "24 / 7 / 365",
+    "length_min": 2:57,
+    "genre": "pop",
+    "artist": "Surfaces",
+    "year": 2019,
+    "image": "24/7.jpg"
+  },
+  {
+    "name": "Heaven",
+    "length_min": 3.11,
+    "genre": "pop",
+    "artist": "Julia Micheals",
+    "year": 2018,
+    "image": "heaven.jpg"
+  },
+  {
+    "name": "Best Friend",
+    "length_min": 4.22,
+    "genre": "pop",
+    "artist": "Rex Orange Country",
+    "year": 2018,
+    "image": "bestfriend.jpg"
+  },
+  {
+    "name": "one less lonly girl",
+    "length_min": 3:49,
+    "genre": "pop",
+    "artist": "Justin Bieber",
+    "year": 2009,
+    "image": "ollg.jpg",
+  }
+  {
+    "name": "A million dreams",
+    "length_min": 4:29,
+    "genre": ["pop", "musical"],
+    "artist": ["Hugh Jackman", "Michelle Williams", "Zif Zalfman"],
+    "year": 2018,
+    "image": "amilliondreams.jpg",
+  }
+  {
+    "name": "live or die",
+    "length_min": 3:14,
+    "genre": "pop",
+    "artist": ["Noah Cyrus", "Lil xan"],
+    "year": 2018,
+    "image": "liveordie.jpg"
+  },
+  {
+    "name": "pete davidson",
+    "length_min": 1.53,
+    "genre": "pop",
+    "artist": "Ariana Grande",
+    "year": 1018,
+    "image": "pete.jpg"
+  },
+  {
+    "name": "problems",
+    "length_min": 3.39,
+    "genre": "pop",
+    "artist": ["Petit Biscuit", "Lido"],
+    "year": 1972,
+    "image": "problems.jpg"
+  },
+  {
+    "name": "One of Us",
+    "length_min": 3.35,
+    "genre": "pop",
+    "artist": "Amanda Seyfried",
+    "year": 2018,
+    "image": "oneofus.jpg",
+  }
+  {
+    "name": "Think about me",
+    "length_min": 4.06,
+    "genre": "pop",
+    "artist": "dvsn",
+    "year": 2018,
+    "image": "thinkaboutme.jpg"
+  },
+  {
+    "name": "Without me",
+    "length_min": 3.21,
+    "genre": "pop",
+    "artist": "Halsey",
+    "year": 2018,
+    "image": "withoutme.jpg"
+  },
+  {
+    "name": "fall back",
+    "length_min": 3.16,
+    "genre": "pop",
+    "artist": "Cimorelli",
+    "year": 2018,
+    "image": "fallback.jpg"
+  },
+  {
+    "name": "Famous",
+    "length_min": 3.43,
+    "genre": "pop",
+    "artist": "Ivy Adara",
+    "year": 2018,
+    "image": "famous.png"
+  },
+  {
+    "name": "Candlelight",
+    "length_min": 3.09,
+    "genre": "pop",
+    "artist": "Zhavia ward",
+    "year": 2018,
+    "image": "candle.jpg"
+  },
+  {
+    "name": "Love Lockdown",
+    "length_min": 4.30,
+    "genre": "pop",
+    "artist": "Kanye West",
+    "year": 2018,
+    "image": "lovelockdown.jpg"
+  },
+  {
+    "name": "Woke up in Japan",
+    "length_min": 2.37,
+    "genre": "pop",
+    "artist": "5 seconds of summer",
+    "year": 2018,
+    "image": "wokeuo.jpg"
+  }
+]

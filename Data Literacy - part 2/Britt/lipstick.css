@@ -1,0 +1,55 @@
+body{
+  background-color: AliceBlue;
+
+}
+
+.facePicture{
+  position: absolute;
+  margin-left: -250px;
+  left: 45%;
+  top: 90px;;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  overflow: hidden;
+
+
+}
+
+p{
+  line-height: 5pt;
+}
+
+.informationBlock{
+  position: absolute;
+  top: 152px;
+  left: 840px;
+  font-family: optima;
+  font-size: 18pt;
+  transform: rotate(90deg);
+}
+
+.pictureOfMyFace{
+  width: 500px;
+}
+
+
+.aSmallImage{
+height: 75px;
+padding: 10px;
+opacity: 15%;
+
+}
+
+.aSmallImage:hover{
+  opacity: 100%;
+  transition: 0.5s;
+  height: 120px;
+}
+
+.smallImages{
+  position: absolute;
+  left: 65px;
+  top: 655px;
+  height: 100px;
+}

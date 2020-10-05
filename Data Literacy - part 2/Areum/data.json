@@ -1,0 +1,269 @@
+[
+
+  {
+    "name": "Akira Tshirt",
+    "main_color": "Black",
+    "length": 77,
+    "material": "Cotton",
+    "size": "XLarge",
+    "price_euro":  10,
+    "city_location_bought": "Utrecht",
+    "original_brand": "Fruit of the loom",
+    "origin_country": "Germany",
+    "image": "/img/img1.jpg"
+
+  },
+
+  {
+    "name": "Shirt#1",
+    "main_color": "Blue",
+    "length": 69  ,
+    "material": "Polyester",
+    "size": "Medium",
+    "price_euro":  20,
+    "city_location_bought": "Berlin",
+    "original_brand": "Unknown",
+    "origin_country": "Unknown",
+    "image": "/img/img2.jpg"
+
+  },
+
+  {
+    "name": "Printed Blouse",
+    "main_color": "Blue",
+    "length": 58,
+    "material": "Polyester",
+    "size": "Medium",
+    "price_euro":  12,
+    "city_location_bought": "Rotterdam",
+    "original_brand": "Vinvert",
+    "origin_country": "Japan",
+    "image": "/img/img3.jpg"
+
+  },
+
+  {
+    "name": "Shirt#2",
+    "main_color": "Beige",
+    "length": 92,
+    "material": "Polyester",
+    "size": "XLarge",
+    "price_euro":  25,
+    "city_location_bought": "Berlin",
+    "original_brand": "Unknown",
+    "origin_country": "Unknown",
+    "image": "/img/img4.jpg"
+
+  },
+
+  {
+    "name": "Pleats Tshirt",
+    "main_color": "Blue",
+    "length": 51,
+    "material": "Polyester",
+    "size": "Medium",
+    "price_euro":  12,
+    "city_location_bought": "Utrecht",
+    "original_brand": "Rora Payse",
+    "origin_country": "Unknown",
+    "image": "/img/img5.jpg"
+
+  },
+
+  {
+    "name": "Sweatshirt#1",
+    "main_color": "Navy",
+    "length": 73,
+    "material": "Cotton",
+    "size": "XLarge",
+    "price_euro":  20,
+    "city_location_bought": "Arnhem",
+    "original_brand": "ArtUnlimited",
+    "origin_country": "US",
+    "image": "/img/img6.jpg"
+
+  },
+
+  {
+    "name": "Shirt#3",
+    "main_color": "Green",
+    "length": 85,
+    "material": "Cotton",
+    "size": "Large",
+    "price_euro":  20,
+    "city_location_bought": "Milan"",
+    "original_brand": "Dacron",
+    "origin_country": "Italy",
+    "image": "/img/img7.jpg"
+
+  },
+
+  {
+    "name": "Collarless Jacket",
+    "main_color": "Navy",
+    "length": 72,
+    "material": "Polyester",
+    "size": "XLarge",
+    "price_euro":  25,
+    "city_location_bought": "Arnhem",
+    "original_brand": "Nuopai",
+    "origin_country": "UK",
+    "image": "/img/img8.jpg"
+
+  },
+
+  {
+    "name": "Shirt#4",
+    "main_color": "Red",
+    "length": 86,
+    "material": "Cotton",
+    "size": "XLarge",
+    "price_euro":  6,
+    "city_location_bought": "Brussel",
+    "original_brand": "Euro Jeans",
+    "origin_country": "UK",
+    "image": "/img/img9.jpg"
+
+  },
+
+  {
+    "name": "Sweatshirt#2",
+    "main_color": "Grey",
+    "length": 75,
+    "material": "Polyester",
+    "size": "Large",
+    "price_euro":  20,
+    "city_location_bought": "Arnhem",
+    "original_brand": "Midwest",
+    "origin_country": "US",
+    "image": "/img/img10.jpg"
+
+  },
+
+  {
+    "name": "Sweatshirt#3",
+    "main_color": "Black",
+    "length": 65,
+    "material": "Cotton",
+    "size": "Large",
+    "price_euro":  12,
+    "city_location_bought": "Amelo",
+    "original_brand": "Adidas",
+    "origin_country": "US",
+    "image": "/img/img11.jpg"
+
+  },
+
+  {
+    "name": "Abstract-shaped Skirt",
+    "main_color": "Red",
+    "length": 72,
+    "material": "Polyester",
+    "size": "Large",
+    "price_euro":  15,
+    "city_location_bought": "Arnhem",
+    "original_brand": "Sylbo Kocke",
+    "origin_country": "Unknown",
+    "image": "/img/img12.jpg"
+
+  },
+
+  {
+    "name": "Jean",
+    "main_color": "Green",
+    "length": 91,
+    "material": "Cotton",
+    "size": "Large",
+    "price_euro":  17,
+    "city_location_bought": "Arnhem",
+    "original_brand": "Zerres",
+    "origin_country": "Germany",
+    "image": "/img/img13.jpg"
+
+  },
+
+  {
+    "name": "Flower Dress",
+    "main_color": "Beige",
+    "length": 118,
+    "material": "Polyester",
+    "size": "Medium",
+    "price_euro":  7,
+    "city_location_bought": "Amelo",
+    "original_brand": "Season",
+    "origin_country": "France",
+    "image": "/img/img14.jpg"
+
+  },
+
+  {
+    "name": "Windbreaker Jacket",
+    "main_color": "Emerald",
+    "length": 73,
+    "material": "Nylon",
+    "size": "Medium",
+    "price_euro":  20,
+    "city_location_bought": "Arnhem",
+    "original_brand": "Energy Zone",
+    "origin_country": "US",
+    "image": "/img/img15.jpg"
+
+  },
+
+  {
+    "name": "Check Jacekt",
+    "main_color": "Brown",
+    "length": 79,
+    "material": "Wool",
+    "size": "Large",
+    "price_euro":  30,
+    "city_location_bought": "Arnhem",
+    "original_brand": "Giorgio Sant' Angelo",
+    "origin_country": "US",
+    "image": "/img/img16.jpg"
+
+  },
+
+  {
+    "name": "Workwear Jacket",
+    "main_color": "Blue",
+    "length": 77,
+    "material": "Cotton",
+    "size": "Small",
+    "price_euro":  22,
+    "city_location_bought": "London",
+    "original_brand": "Państwowe Przedsiębiorstwo Odzieżowe RAKON",
+    "origin_country": "Poland",
+    "image": "/img/img17.jpg"
+
+  },
+
+  {
+    "name": "Mackintosh Coat",
+    "main_color": "Navy",
+    "length": 112,
+    "material": "Wool",
+    "size": "Medium",
+    "price_euro":  27,
+    "city_location_bought": "Antwerpen",
+    "original_brand": "bugatti",
+    "origin_country": "UK",
+    "image": "/img/img18.jpg"
+
+  },
+
+  {
+    "name": "Trench Coat",
+    "main_color": "Beige",
+    "length": 123,
+    "material": "Polyester",
+    "size": "Medium",
+    "price_euro":  11,
+    "city_location_bought": "Brussel",
+    "original_brand": "Palais Du VeteMent",
+    "origin_country": "Francemmm",
+    "image": "/img/img19.jpg"
+
+  }
+
+]

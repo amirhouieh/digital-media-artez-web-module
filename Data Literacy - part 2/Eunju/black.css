@@ -1,0 +1,33 @@
+body{
+  background: black;
+  text-decoration: none;
+  color: #D3D3D3;
+  margin: 20px auto;
+  padding: 0 10px;
+}
+
+img{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 30%;
+  height: 30%;
+}
+
+div{
+  border-top: 1px solid #D3D3D3;
+  border-bottom: 1px solid #D3D3D3;
+  border-left: 2px solid #D3D3D3;
+  border-right: 2px solid #D3D3D3;
+  padding-top: 0px;
+  padding-left: 20px;
+}
+
+
+body{
+  font-family: "Baskerville";
+}
+
+@font-face{
+  font-family: 'Baskerville';
+  src: url('Baskerville Regular', 'Baskerville Bold');
+}

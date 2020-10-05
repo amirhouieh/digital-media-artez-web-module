@@ -1,0 +1,184 @@
+[
+{
+  "name": "mannequin",
+  "material": "wood",
+  "size_cm": 32,
+  "color": "beige",
+  "weight_gr": 200,
+  "is_a_gift": false,
+},
+{
+  "name": "head",
+  "material": "glass",
+  "size_cm": 22,
+  "color": "transparent",
+  "weight_gr": 1640,
+  "is_a_gift": false,
+},
+{
+  "name": "hippo1",
+  "material": "pottery",
+  "size_cm": 6,
+  "color": "ligt green",
+  "weight_gr": 400,
+  "is_a_gift": false,
+},
+{
+  "name": "hippo2",
+  "material": "metal",
+  "size_cm": 5,
+  "color": "dark green",
+  "weight_gr": 340,
+  "is_a_gift": true,
+  "received_from": "Dini Beumer",
+}
+{
+  "name": "fish",
+  "material": "pottery",
+  "size_cm": 3,
+  "color": "brown",
+  "weight_gr": 5,
+  "is_a_gift": true,
+  "received_from": "Jan Horstink",
+}
+{
+  "name": "monkey",
+  "material": "pottery",
+  "size_cm": 7,
+  "color": "brown",
+  "weight_gr": 5,
+  "is_a_gift": true,
+  "received_from": "Jan Horstink",
+}
+{
+  "name": "ball1",
+  "material": "glass",
+  "size_cm": 6,
+  "color": "green",
+  "weight_gr": 440,
+  "is_a_gift": false,
+}
+{
+  "name": "ball2",
+  "material": "pottery",
+  "size_cm": 8,
+  "color": "dark blue",
+  "weight_gr": 840,
+  "is_a_gift": false,
+}
+{
+  "name": "vase",
+  "material": "glass",
+  "size_cm": 8,
+  "color": "light blue",
+  "weight_gr": 240,
+  "is_a_gift": false,
+}
+{
+  "name": "dish",
+  "material": "pottery",
+  "size_cm": 2,
+  "color": "green",
+  "weight_gr": 100,
+  "is_a_gift": true,
+  "received_from": "Hilde Horstink",
+}
+{
+  "name": "candle",
+  "material": [
+    "wax", "wood"
+  ],
+  "size_cm": 3,
+  "color": "yellow",
+  "weight_gr": 80,
+  "is_a_gift": true,
+  "received_from": "Kimberley Houlton",
+}
+{
+  "name": "santa hat",
+  "material": "pottery",
+  "size_cm": 5,
+  "color": "red",
+  "weight_gr": 140,
+  "is_a_gift": false,
+}
+{
+  "name": "tile",
+  "material": "pottery",
+  "size_cm": 7,
+  "color": "white",
+  "weight_gr": 80,
+  "is_a_gift": false,
+}
+{
+  "name": "fish dish",
+  "material": "pottery",
+  "size_cm": 25,
+  "color": "green",
+  "weight_gr": 420,
+  "is_a_gift": true,
+  "received_from": "Dini Beumer",
+}
+{
+  "name": "coockie can",
+  "material": "metal",
+  "size_cm": 21,
+  "color": "blue",
+  "weight_gr": 420,
+  "is_a_gift": false,
+}
+{
+  "name": "abacus",
+  "material": "wood",
+  "size_cm": 27,
+  "color": [
+  "yellow","red", "blue", "orange", "white", "green",
+  ],
+  "weight_gr": 1120,
+  "is_a_gift": false,
+}
+{
+  "name": "matryoshka1",
+  "material": "wood",
+  "size_cm": 19,
+  "color": [
+  "red", "yellow"
+  ],
+  "weight_gr": 380,
+  "is_a_gift": true,
+  "received_from": "Harry Horstink",
+}
+{
+  "name": "matryoshka2",
+  "material": "wood",
+  "size_cm": 15,
+  "color": [
+  "brown", "black"
+  ],
+  "weight_gr": 200,
+  "is_a_gift": true,
+  "received_from": "Harry Horstink",
+}
+{
+  "name": "matryoshka3",
+  "material": "wood",
+  "size_cm": 14,
+  "color": [
+  "green", "black"
+  ],
+  "weight_gr": 220,
+  "is_a_gift": true,
+  "received_from": "Harry Horstink",
+}
+{
+  "name": "matryoshka4",
+  "material": "wood",
+  "size_cm": 8,
+  "color": [
+  "brown", "black"
+  ],
+  "weight_gr": 180,
+  "is_a_gift": true,
+  "received_from": "Harry Horstink",
+}
+]

@@ -1,0 +1,70 @@
+*{
+  margin:0;
+  margin-bottom: 5px;
+  margin-right: 10px;
+  padding:0;
+  box-sizing: border-box;
+  font-family: courier;
+}
+
+body{
+  background-color: blue;
+}
+
+
+.images_scroll{
+  /* background-color: coral; */
+  background: linear-gradient(119deg, #ededed, #ffcdcd);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: auto;
+  margin-left: 20px;
+  margin-bottom: 40px;
+  border-left: 11px inset #ffffff;
+  border-radius: 34px 0px 0px 34px;
+  box-shadow: 4px 4px 15px 1px #ffffff;
+
+}
+
+img{
+  align-items: center;
+  max-width: auto;
+  height: 200px;
+  margin: 10px;
+  filter: grayscale(100%) contrast(150%);
+}
+
+img:hover{
+  filter:none;
+  border: 4px solid white;
+  box-shadow: 4px 4px 15px 1px #ffffff;
+}
+
+p{
+  color: blue;
+  align-items: center;
+  margin: 10px;
+}
+
+.artist-name{
+  color: white;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.title{
+  font-size: 50px;
+  color: blue;
+}
+
+.favourite_song{
+  font-weight: bold;
+  font-style: italic;
+}
+
+.genre{
+  margin-bottom: 10px;
+}

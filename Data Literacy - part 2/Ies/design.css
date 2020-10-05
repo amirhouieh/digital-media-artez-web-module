@@ -1,0 +1,36 @@
+body{
+  background: black;
+  color: black;
+  font-family: monospace;
+  display: flex;
+  /* padding: 50px; */
+}
+
+div{
+  padding: 10px;
+}
+
+div:hover{
+  color: white;
+}
+
+h1{
+  font-family: 'Monoton', cursive;
+  font-size: 50px;
+  width: 500px;
+  height: 150px;
+}
+
+h3{
+}
+
+img{
+  -webkit-filter: blur(10px);
+  transition: 1s ease;
+  width: 300px;
+}
+
+img:hover{
+  transition: 1s ease;
+  -webkit-filter: blur(0px);
+ }

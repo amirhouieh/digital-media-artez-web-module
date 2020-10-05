@@ -1,0 +1,96 @@
+body{
+  background-color: white;
+}
+
+div{
+  text-align: center;
+  border-style: solid;
+  border-radius: 2px;
+  border-spacing: 40px;
+  border-width: thin;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 400px;
+  margin-right: 400px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow:hidden;
+  font-family: 'Aleo', serif;
+}
+
+div:hover{
+  text-align: right;
+  font-style: italic;
+  border-color: red;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.photographer{
+  margin-top: 2px;
+  margin-bottom: 2px;
+  font-size: 15px;
+}
+
+.photographer:hover{
+  text-align: left;
+  color: red;
+}
+
+.caption{
+  margin-top: 2px;
+  margin-bottom: 2px;
+  font-size: 18px;
+}
+
+.caption:hover{
+  text-align: left;
+  color: red;
+}
+
+.colors{
+  margin-top: 2px;
+  margin-bottom: 2px;
+  font-size: 14px;
+}
+
+.colors:hover{
+  text-align: left;
+  color: red;
+}
+
+.amount{
+  margin-top: 2px;
+  margin-bottom: 2px;
+  font-size: 12px;
+}
+
+.amount:hover{
+  text-align: left;
+  color: red;
+}
+
+.perspective{
+  margin-top: 1px;
+  margin-bottom: 2px;
+  font-size: 12px;
+}
+
+.perspective:hover{
+  text-align: left;
+  color: red;
+}
+
+img{
+  width: 40%;
+  height: 40%;
+  filter: blur(20px);
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+img:hover{
+  width: 40%;
+  height: 40%;
+  filter: blur(0px);
+}

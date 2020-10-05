@@ -1,0 +1,76 @@
+body{
+  background-image: url("background2.png");
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+  background-color: red;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+}
+
+.na{
+  opacity: 0.4;
+}
+
+div {
+    width: 310px;
+    height: 600px;
+    float: left;
+    margin-left: 80px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    margin-right: 50px;
+    background-image: linear-gradient(red, darkred);
+
+}
+
+div div:nth-child(-n+3) {
+    border-bottom: 2px;
+}
+div div:nth-child(-n+6) {
+    border-bottom: 2px;
+}
+div div:nth-child(1), div:nth-child(2), div:nth-child(4), div:nth-child(5), div:nth-child(7), div:nth-child(8) {
+    border-right: 2px;
+}
+
+span:hover + div {
+  display:block;
+  transition: all .4s ease-in-out;
+  z-index:999;
+}
+
+img{
+  width: 310px;
+  height: 310px;
+  position: relative;
+}
+
+img:hover{
+  top:0px;
+  left:0px;
+  width:500px;
+  height:auto;
+  display:block;
+  transition: all .4s ease-in-out;
+}
+
+img.disabled {
+  filter: grayscale(100);
+}
+
+h1{
+  text-align: left;
+  margin: 15px;
+}
+
+h2{
+  text-align: : center;
+  margin-left: 80px;
+  margin-top: 160px;
+}
+
+h3{
+  text-align: right;
+  margin: 15px;
+  text-shadow: 2px 2px darkred;
+}
